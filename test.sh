@@ -6,4 +6,3 @@ cat /etc/group
 git add .
 git commit -m "test trigger"
 git push
-cat /etc/group
