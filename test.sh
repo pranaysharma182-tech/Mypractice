@@ -6,3 +6,4 @@ cat /etc/group
 rpm -qa | grep -i httpd
 cat /etc/shadow
 cat /etc/passwd
+gggg
